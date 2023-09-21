@@ -1,7 +1,7 @@
 export default [
     {
         id: "1",
-        pic: "/src/assets/c16f12e0-city-5571-169fd60e503.jpg",
+        pic: "/public/assets/c16f12e0-city-5571-169fd60e503.jpg",
         country: "Sierra Leone",
         city: "Freetown",
         timeframe: "December March 2023",
@@ -10,7 +10,7 @@ export default [
     },
     {
         id: "2",
-        pic: "/src/assets/ce115d52-5bd1-4f78-8a2a-6f1ec518d239.jpg",
+        pic: "/public/assets/ce115d52-5bd1-4f78-8a2a-6f1ec518d239.jpg",
         country: "The Bahamas",
         city: "Nassau",
         timeframe: "December 2022",
@@ -19,7 +19,7 @@ export default [
     },
     {
         id: "3",
-        pic: "/src/assets/GettyImages-1234024326-1.webp",
+        pic: "/public/assets/GettyImages-1234024326-1.webp",
         country: "Cuba",
         city: "Havana",
         timeframe: "May 2021",
@@ -28,7 +28,7 @@ export default [
     },
     {
         id: "4",
-        pic: "/src/assets/hotels_resorts_f1accbe6-4f03-4289-a1f7-4ff00ff4aa52.jpg",
+        pic: "/public/assets/hotels_resorts_f1accbe6-4f03-4289-a1f7-4ff00ff4aa52.jpg",
         country: "Jamaica",
         city: "Montego Bay",
         timeframe: "July 2020",
@@ -37,7 +37,7 @@ export default [
     },
     {
         id: "5",
-        pic: "/src/assets/image.jpg",
+        pic: "/public/assets/image.jpg",
         country: "Belize",
         city: "Belize City",
         timeframe: "March 2019",
@@ -46,7 +46,7 @@ export default [
     },
     {
         id: "6",
-        pic: "/src/assets/LICENSE_Chef Tita _Dominican Republic_(c) GettyImages-1068111930_CNT (US)_Andrea Edelman.webp",
+        pic: "/public/assets/LICENSE_Chef Tita _Dominican Republic_(c) GettyImages-1068111930_CNT (US)_Andrea Edelman.webp",
         country: "The Dominican Republic",
         city: "Santo Domingo",
         timeframe: "January 2018",
@@ -55,7 +55,7 @@ export default [
     },
     {
         id: "7",
-        pic: "/src/assets/marquee-uk.webp",
+        pic: "/public/assets/marquee-uk.webp",
         country: "The United Kingdom",
         city: "London",
         timeframe: "November 2017",
@@ -64,7 +64,7 @@ export default [
     },
     {
         id: "8",
-        pic: "/src/assets/paris-adobestock-327345878.png",
+        pic: "/public/assets/paris-adobestock-327345878.png",
         country: "France",
         city: "Paris",
         timeframe: "March 2016",
@@ -73,7 +73,7 @@ export default [
     },
     {
         id: "9",
-        pic: "/src/assets/UltimateMexicoCity__HERO_shutterstock_1058054480.jpg",
+        pic: "/public/assets/UltimateMexicoCity__HERO_shutterstock_1058054480.jpg",
         country: "Mexico",
         city: "Mexico City",
         timeframe: "December 2015",
